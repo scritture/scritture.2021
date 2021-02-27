@@ -1,0 +1,61 @@
+---
+layout: default
+---
+<!-- Page Header -->
+{% if page.background %}
+<header class="masthead" 
+style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
+  {% else %}
+  <header class="small">
+    {% endif %}
+
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        
+          <div class="post-heading" style=" padding: 55px 0px 0px;" >
+            <h1>{{ page.title }}</h1>
+            {% if page.subtitle %}
+            <span class="subheading">{{ page.subtitle }}</span>
+            {% endif %}
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-10 col-md-12 mx-auto">
+        {% if page.image %}
+        <img src="{{page.image}}" class="img-fluid" alt="">
+        {% endif %}
+        <div class="container">
+        {% if page.subtitle %}
+        <span class="subheading">{{ page.subtitle }}</span>
+        {% endif %}
+        <p class="text-muted"> 
+          {{site.lang.posted_by}}
+          <a href="/tags#{{  page.author | default: "" |  cgi_escape }}">
+            {% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}</a>
+            {% include date.html date=page.date %}
+         </p>
+         <p class="card-text text-justify">
+            {{ content }}
+        </p>
+      </div>
+        <hr>
+        <div class="clearfix">
+          {% if page.previous.url %}
+          <a class="btn btn-primary float-left" href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.previous.title }}">&larr; {{site.lang.previus}}<span class="d-none d-md-inline">
+              {{site.lang.post}}</span></a>
+          {% endif %}
+          {% if page.next.url %}
+          <a class="btn btn-primary float-right" href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{ page.next.title }}">{{site.lang.next}}<span class="d-none d-md-inline">
+            {{site.lang.post}}  </span> &rarr;</a>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>

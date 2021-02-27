@@ -1,0 +1,15 @@
+# Localization strings
+str_follow_on: "Segui"
+str_rss_follow: "Segui RSS"
+str_share_on: "condividi"
+str_add_to: "aggiungilo"
+str_email: "Email"
+str_tweet: "Tweet"
+str_pin_it: "Pin it"
+str_next_post: "articolo successivo"
+str_previous_post: "articolo precedente"
+str_next_page: "pross"
+str_previous_page: "prec"
+str_javascript_required_disqus: "Si prega di abilitare javascript per vedere disqus"
+
+

@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+
+<html>
+
+{% include head.html %}
+
+<body>
+  {% include navbar_black.html %}
+
+
+<div class="container-sm"  style="background-image: url({{page.background}}); ">
+
+
+
+<!-- articoli  -->
+
+<div class="col-lg-10 col-md-12 mx-auto" style="background-color:rgb(255, 255, 255);  ">
+  {% include logo.html %}
+  <div class="row">
+    {{ content }}
+
+
+<!-- prima colonna - prima riga -->
+{% for post in site.posts  limit:1 %}
+<div class="col-md-8">
+  <div class="card border-light">
+  <img src="{{post.image}}" class="card-img rounded-top" >
+  <div class="card-body">
+    <h5 class="card-title">{{ post.title }}{{limit}}</h5>
+
+    <p class="card-text">
+      <small class="text-muted">
+        {{site.lang.posted_by}}
+      {% if post.author %}
+      {{ post.author }}
+      {% else %}
+      {{ site.author }}
+      {% endif %}
+      &middot;  {% include date.html  date=post.date %}       
+      </small></p>
+      <p class="card-text text-justify">{{ post.content | strip_html | truncatewords: 120 }}</p>
+      <a href="{{post.url}}" class="btn btn-primary stretched-link">{{site.lang.read}}</a>
+    </div>
+    </div>
+    </div>
+  {% endfor %}
+
+  <!-- seconda colonna prima riga -->
+  {% for post in site.posts offset:1 limit:1  %}
+  <div class="col-md-4">
+    <div class="card border-light">
+    <img src="{{post.image}}" class="card-img rounded-top" >
+    <div class="card-body">
+      <h5 class="card-title">{{ post.title }}{{limit}}</h5>
+      <p class="card-text">
+        <small class="text-muted">
+          {{site.lang.posted_by}}
+        {% if post.author %}
+        {{ post.author }}
+        {% else %}
+        {{ site.author }}
+        {% endif %}
+        &middot;  {% include date.html  date=post.date %}       
+        </small></p>
+
+        <p class="card-text text-justify">{{ post.content | strip_html | truncatewords: 70 }}</p>
+        <a href="{{post.url}}" class="btn btn-primary stretched-link">{{site.lang.read}}</a>
+    </div>
+    </div>
+    </div>
+    
+    
+    {% endfor %}
+
+<!--  seconda riga-->
+
+          {% for post in site.posts  offset:3 limit:3 %}
+          <div class="col-md-4">
+            <div class="card border-light">
+            <img src="{{post.image}}" class="card-img rounded-top" >
+            <div class="card-body">
+              <h5 class="card-title">{{ post.title }}{{limit}}</h5>
+              <p class="card-text">
+                <small class="text-muted">
+                  {{site.lang.posted_by}}
+                {% if post.author %}
+                {{ post.author }}
+                {% else %}
+                {{ site.author }}
+                {% endif %}
+                &middot;  {% include date.html  date=post.date %}       
+                </small></p>
+  
+                <p class="card-text text-justify">{{ post.content | strip_html | truncatewords: 50 }}</p>
+                <a href="{{post.url}}" class="btn btn-primary stretched-link">{{site.lang.read}}</a>
+              </div>
+              </div>
+              </div>
+            {% endfor %}
+
+            <div class="row">
+             <div class="container-sm style="background-color:rgb(55, 255, 255); padding: 200px;" >
+                <a class="btn btn-primary" href="/tags/">{{site.lang.all_posts}} &rarr;</a>
+             </div>
+            </div>
+
+</div>
+</div>
+</div>
+{% include footer.html %}
+{% include scripts.html %}
+{% include google-analytics.html %}
+</body>
+</html>

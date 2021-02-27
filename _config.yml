@@ -1,0 +1,41 @@
+title:              Scritture
+email:              "redazione@scritture.net" 
+description:        "Testi e tessiture. La scrittura e le sue declinazioni"
+author:             Claudio Comandini
+baseurl:            "/"
+url:                ""
+permalink: /:slug/
+logo: "/images/cropped-scritture_logo-1.jpg"
+
+# Social Profiles
+twitter_username:   tweet_scritture
+github_username:    
+facebook_username:  scritturemagazine
+linkedin_username:  https://www.linkedin.com/groups/4880518/
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins: 
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+exclude: [".jekyll-cache", "Gemfile", "Gemfile.lock", "type-on-strap.gemspec", "*.gem", ".idea", "vendor/*",
+  "LICENSE", "README.md", "screenshot.png", "assets/package.json", "assets/node_modules", "assets/gulpfile.js", "bin/cbuild"]
+
+
+lang:
+    default: it
+    posted_by: di
+    previus_post: "articolo precedente"
+    next_post: "aricolo successivo"
+    previus: "precedente"
+    next: "successivo"
+    post: "articolo"
+    all_posts: "tutti gli articoli"
+    read: "leggi"
+    enter_keywords: "cerca le parole"
