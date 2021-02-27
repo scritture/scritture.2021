@@ -1,6 +1,6 @@
 ---
 layout: page
-title: locale
+title: Grandtour vinolibreria
 permalink: /locale/
 description: Largo Duca Di York 8
 background: "/img/bg-about.jpg"
