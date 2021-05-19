@@ -19,7 +19,7 @@ tags:
 
 ### Comunicare in poche righe.
 
-A volte, e c'è anche chi dice sempre e in modo strutturale, sui giornali e i mezzi di comunicazione si scrive tanto per riempire lo spazio, anche quando non si ha niente da dire: anche in maniera più subdola e interessata che in queste poche righe.
+A volte, e c'è anche chi dice sempre e in modo strutturale, sui giornali e i mezzi di comunicazione si scrive tanto per riempire lo spazio, anche quando non si ha niente da dire: ciò puo verificarsi anche in maniera più subdola e interessata che in queste poche righe.
 
 _Prima pubblicazione: «Controluce» _a. 14 n. 4, aprile 2005. Riveduto._
 
