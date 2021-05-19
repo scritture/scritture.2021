@@ -268,7 +268,7 @@ _(autunno 97)_
 
 
 
-### ANNULLAMENTO GRAVITAZIONALE TOTALE
+### ANNULLAMENTO GRAVITAZIONALE
 
 
 Possiamo soltanto sperare che
