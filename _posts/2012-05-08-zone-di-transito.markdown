@@ -13,10 +13,7 @@ categories:
 - letteratura
 - musica
 - Claudio Comandini
-- finanza tossica
-- Internet
-- Perniola
-- social network
+- poesia
 ---
 tags:
 - Claudio Comandini
@@ -25,7 +22,7 @@ tags:
 - viaggi
 ---
 
-«I testi esemplari qui prescelti [...] possono considerarsi precipitati di un più che decennale, multiforme processo alchemico, risultati di un’intensa ricerca di amore, libertà, conoscenza, esperita in presenza del gioco vitale degli elementi, del mistero del dì e della notte, della parola e del silenzio. Di questo gioco, di questo mistero, rimane traccia, ora come filigrana ora come lievito, nelle strutture poetiche di Claudio Comandini, severe, ma anche a volte aperte al balenare di un’accesa visività. L’approdo poetico rappresenta per Comandini l’autentica meta, il punto di condensazione di un’ampia spirale di appassionate avventure intellettuali attraverso non soltanto le contrade d’Europa, o i suggestivi ipogei dove regnano le Madri e gli archetipi, ma anche attraverso le filosofie d’oriente ed occidente, la vecchia e la nuova scienza, la musica direttamente praticata.» (Emerico Giachery)_
+_«I testi esemplari qui prescelti [...] possono considerarsi precipitati di un più che decennale, multiforme processo alchemico, risultati di un’intensa ricerca di amore, libertà, conoscenza, esperita in presenza del gioco vitale degli elementi, del mistero del dì e della notte, della parola e del silenzio. Di questo gioco, di questo mistero, rimane traccia, ora come filigrana ora come lievito, nelle strutture poetiche di Claudio Comandini, severe, ma anche a volte aperte al balenare di un’accesa visività. L’approdo poetico rappresenta per Comandini l’autentica meta, il punto di condensazione di un’ampia spirale di appassionate avventure intellettuali attraverso non soltanto le contrade d’Europa, o i suggestivi ipogei dove regnano le Madri e gli archetipi, ma anche attraverso le filosofie d’oriente ed occidente, la vecchia e la nuova scienza, la musica direttamente praticata.» (Emerico Giachery)_
 
 
 
@@ -36,6 +33,7 @@ come vortici trasportano la danza -
 
 la verità è un errore – assenza di niente -  
 caduto è il cielo con la terra -  
+
 
 _(inverno 93 – autunno 95)_
 
@@ -62,6 +60,7 @@ che s’abbarbica sull’uretra e sull’aorta
 e mi costringe a trascinare un frigorifero fino al 7° piano del Parnaso.
 Quando ti guarda la riconosci,
 quando si avvicina lei è presente.
+
 
 _(inverno 95)_
 
@@ -91,6 +90,7 @@ A queste bianche e secche piagge tratti
 Dal fiottolo lucente attraversando
 Vasto l’orizzonte che cupo cerchia
 il golfo
+
 
 _(texel estate 88)_
 
@@ -122,6 +122,7 @@ e poi più nulla
 
 un altro mondo inizia, lo stesso,
 
+
 _(tharros equinozio d’autunno 88)_
 
 
@@ -142,6 +143,7 @@ come un ombra che la luce non cancella.
 Per te,
 e per tutti quelli che abbiamo amato
 e perduto.
+
 
 _(primavera 95 )_
 
@@ -168,6 +170,7 @@ ad aspettare, senza sapere, qualcosa di più
 di un telegramma, di una morte che non puoi
 morire, e speri che l’inferno ti salvi.
 
+
 _(autunno 97)_
 
 
@@ -180,7 +183,12 @@ un immane buco nero, una efficientissima
 macchina del tempo
 inghiotta questo coacervo di
 forze gravitazionali
-interazioni varie e banali--watchntropia
+interazioni varie e banali
+energie cosmiche e nucleari
+censurando nell'orizzonte degli eventi
+casa nostra e tutti gli altri condomini solari.
+
+E riavvolata la spirale dell'entropia
 si ritorni a quell’altro caos,
 innocente
 all’inizio della grande bugia.
@@ -188,24 +196,29 @@ all’inizio della grande bugia.
 
 _(estate 94)_
 
+
+
 **LA VOCE DELLE OMBRE**
 
-   vorrei parlarmi 
-   ma ora non siete qui
+- vorrei parlarmi
+ma ora non siete qui -
 
-   guardando verso l’alto
-   la terra è tradita
-   guardando verso il basso
-   il cielo è precluso
-   guardando dritto di fronte a sé
-   nè cielo nè terra si apriranno mai
-   guardando dietro le spalle
-   si va a sbattere da qualche parte
+guardando verso l’alto
+la terra è tradita
+guardando verso il basso
+il cielo è precluso
+guardando dritto di fronte a sé
+né cielo né terra si apriranno mai
+guardando dietro le spalle
+si va a sbattere da qualche parte
 
-   vorrei parlarvi
-   ma ora non sono qui
+- vorrei parlarvi
+ma ora non sono qui -
 
-(primavera 87 – inverno 93)
+
+_(primavera 87 – inverno 93)_
+
+
 
 _Prima pubblicazione: «La Scrittura» n. 7, autunno-inverno 97/98._
 _Fotografia: Claudio Comandini, “Some candies publications” – Paros, agosto 1993._
