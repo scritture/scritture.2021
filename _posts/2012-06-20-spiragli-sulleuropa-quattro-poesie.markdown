@@ -1,6 +1,6 @@
 ---
 author: Claudio Comandini
-comments: true
+comments: false
 date: 2012-06-20 10:00:22+00:00
 image: /images/2016/07/il-negozio-delle-chiavi-572x381.jpg
 layout: post
@@ -24,7 +24,7 @@ _Quattro poesie di viaggio: Texel, Praga, Monaco, Sitges._
 
 **LA FABBRICA DELLE NUVOLE**
 
-Nuvole dall’elefantessa bianca partorite
+Nuvole dall'elefantessa bianca partorite
 Nuvole nel punto morto superiore
 Nuvole come confezioni di supposte
 Nuvole in accordo di terza maggiore
@@ -37,9 +37,9 @@ _texel, estate 88_
 
 E lapidi su lapidi alla terra abbandonate
 La memoria di un ciottolo o una cifra
-Grappoli d’uva sull’arenaria scolpiti.
+Grappoli d'uva sull’arenaria scolpiti.
 
-E l’uno sull’altro nove livelli di sepolti
+E l'uno sull’altro nove livelli di sepolti
 Parole di una lingua da nessuno più compresa
 L’intreccio dei sambuchi protende le radici.
 
@@ -56,8 +56,8 @@ il sole si uccide con passo leggero.
 
 Del sol levante passa raminga un’ombra
 ed un cenno mi fa.
-Va. Perdo il rimbalzo – l’attimo fugge.
-Nell’oscurità la cerco inutilmente
+Va. Perdo il rimbalzo – l'attimo fugge.
+Nell'oscurità la cerco inutilmente
 e nella memoria mi insegue ancora.
 
 _monaco, estate 87_
