@@ -1,6 +1,6 @@
 ---
 author: Claudio Comandini
-comments: true
+comments: false
 date: 2015-01-29 11:00:40+00:00
 image: /images/2016/07/maometto-allinferno-640x381.jpg
 layout: post
