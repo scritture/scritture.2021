@@ -2,7 +2,7 @@ title:              Scritture
 email:              "redazione@scritture.net" 
 description:        "Testi e tessiture. La scrittura e le sue declinazioni"
 author:             Claudio Comandini
-baseurl:            "/"
+baseurl:            "/scritture.2021/"
 url:                ""
 permalink: /:slug/
 logo: "/images/cropped-scritture_logo-1.jpg"
